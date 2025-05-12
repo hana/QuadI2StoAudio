@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DAC")(type "KiCad")(uri "/Users/takimotohananosuke/Development/kicad/ht/Symbols/DAC.kicad_sym")(options "")(descr ""))
+  (lib (name "LDO")(type "KiCad")(uri "/Users/takimotohananosuke/Development/kicad/ht/Symbols/LDO.kicad_sym")(options "")(descr ""))
+  (lib (name "ChargePump")(type "KiCad")(uri "/Users/takimotohananosuke/Development/kicad/ht/Symbols/ChargePump.kicad_sym")(options "")(descr ""))
+)
