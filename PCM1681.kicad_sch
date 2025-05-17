@@ -4016,16 +4016,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 128.27) (xy 179.07 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05e14bd1-e6ab-4d55-a5bb-d4e20968c27b")
-	)
-	(wire
-		(pts
 			(xy 171.45 115.57) (xy 179.07 115.57)
 		)
 		(stroke
@@ -4176,6 +4166,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 128.27) (xy 179.07 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e028aa7-1893-4ede-9ba0-041e0387c58d")
+	)
+	(wire
+		(pts
 			(xy 184.15 83.82) (xy 187.96 83.82)
 		)
 		(stroke
@@ -4303,16 +4303,6 @@
 			(type default)
 		)
 		(uuid "2e13f5d7-36b0-4479-a6a6-4ecc6fb69f9f")
-	)
-	(wire
-		(pts
-			(xy 170.18 138.43) (xy 179.07 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e92ac11-40f9-4882-b49a-07b183ed8b20")
 	)
 	(wire
 		(pts
@@ -4513,6 +4503,16 @@
 			(type default)
 		)
 		(uuid "444d6099-439e-4a1f-9b40-6d1c3ef6f6ce")
+	)
+	(wire
+		(pts
+			(xy 162.56 125.73) (xy 165.1 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44831667-9a72-45bb-88bd-0cc658884999")
 	)
 	(wire
 		(pts
@@ -4966,6 +4966,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 138.43) (xy 179.07 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a39f413-83ff-42db-9e55-d9c16488c2ae")
+	)
+	(wire
+		(pts
 			(xy 83.82 73.66) (xy 83.82 81.28)
 		)
 		(stroke
@@ -5106,16 +5116,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 133.35) (xy 179.07 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90762d4e-9a8b-4c7e-ba04-73afa56fd6c8")
-	)
-	(wire
-		(pts
 			(xy 83.82 101.6) (xy 83.82 104.14)
 		)
 		(stroke
@@ -5123,6 +5123,16 @@
 			(type default)
 		)
 		(uuid "9446488e-94df-4c53-bc63-e62f5805f4ba")
+	)
+	(wire
+		(pts
+			(xy 162.56 130.81) (xy 179.07 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97a4a826-e9f7-4187-b874-9da7b7ba62a3")
 	)
 	(wire
 		(pts
@@ -5213,6 +5223,16 @@
 			(type default)
 		)
 		(uuid "a1afda86-4937-4eb5-a5cb-8c6119181244")
+	)
+	(wire
+		(pts
+			(xy 165.1 125.73) (xy 165.1 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1bfb1fc-4bc5-4660-9221-114b544200c0")
 	)
 	(wire
 		(pts
@@ -5676,6 +5696,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 135.89) (xy 179.07 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0e6c32f-98d0-4037-9a00-5f167b54c26d")
+	)
+	(wire
+		(pts
 			(xy 71.12 73.66) (xy 83.82 73.66)
 		)
 		(stroke
@@ -5796,16 +5826,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 130.81) (xy 179.07 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e62642e2-2ac9-4036-b4f9-54050b6ffd55")
-	)
-	(wire
-		(pts
 			(xy 30.48 55.88) (xy 30.48 58.42)
 		)
 		(stroke
@@ -5813,16 +5833,6 @@
 			(type default)
 		)
 		(uuid "e7c362cc-c99e-4741-b5cc-019ff68af997")
-	)
-	(wire
-		(pts
-			(xy 170.18 135.89) (xy 179.07 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e93ca5b3-6e9b-47eb-bf9c-c40cd41af031")
 	)
 	(wire
 		(pts
@@ -5843,6 +5853,16 @@
 			(type default)
 		)
 		(uuid "ed2449e9-e2d6-4e79-bf70-46557427ba60")
+	)
+	(wire
+		(pts
+			(xy 162.56 133.35) (xy 179.07 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed310ff5-3c22-475a-a1e0-2ba51215397d")
 	)
 	(wire
 		(pts
@@ -6867,7 +6887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx04_Slide_6.7x11.72mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx04_Slide_KingTek_DSHP04TJ_W5.25mm_P1.27mm_JPin"
 			(at 143.51 86.36 0)
 			(effects
 				(font
@@ -6894,7 +6914,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6331176"
+		(property "LCSC" "C224996"
 			(at 143.51 86.36 0)
 			(effects
 				(font
@@ -10726,7 +10746,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x05_Pin")
-		(at 165.1 133.35 0)
+		(at 157.48 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10734,7 +10754,7 @@
 		(dnp yes)
 		(uuid "f90c167c-c670-4fa1-aecd-718b617e44df")
 		(property "Reference" "J5"
-			(at 165.354 140.208 0)
+			(at 157.734 137.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10743,7 +10763,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05_Pin"
-			(at 165.1 142.24 0)
+			(at 157.48 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10752,7 +10772,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
-			(at 165.1 133.35 0)
+			(at 157.48 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10761,7 +10781,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 133.35 0)
+			(at 157.48 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10770,7 +10790,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
-			(at 165.1 133.35 0)
+			(at 157.48 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
